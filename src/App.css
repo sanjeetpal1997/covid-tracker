@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background: #26ae60;
+  height: 100vh;
+}
+
+.main {
+  width: 100%;
+}
+
+.wrapper {
+  width: 65%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.body-info .current-data {
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+}
+
+.wrapper figure {
+  height: 150px
+}
+
+.wrapper figure img {  
+  height: 100%;
+}
